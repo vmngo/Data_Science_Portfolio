@@ -1,6 +1,13 @@
-# Vmngo
-Data Scientist
+# Hi there 👋 , I am Vmngo
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hailedaniel/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Dhaile?color=1DA1F2&logo=twitter&style=for-the-badge)](#)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/daniel_sys)
 
+#### Programming Language Stack
+<p align="left"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Python-Dark.svg" alt="python" title="python" width="60" height="60"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/MySQL-Dark.svg" alt="SQL" title="SQL" width="60" height="60"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/TensorFlow-Dark.svg" alt="Tensorflow" title="Tensor Flow" width="60" height="60"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/PyTorch-Dark.svg" alt="Py TOrch" title="Py torch" width="60" height="60"/>
+  
 # [Project 1: Data Science Salary Estimator](https://github.com/PlayingNumbers/ds_salary_proj) 
 * Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
 * Scraped over 1000 job descriptions from glassdoor using python and selenium
