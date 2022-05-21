@@ -178,5 +178,9 @@ Technical skills used: <strong>Pandas, NumPy, Seaborn, Matplotlib, TensorFlow</s
 --------------
 
 
+---
+![Profile views](https://gpvc.arturio.dev/vmngo)</br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vmngo&show_icons=true) </br>
+![GitHub metrics](https://metrics.lecoq.io/vmngo)  
 
 
