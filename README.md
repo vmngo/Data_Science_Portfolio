@@ -35,7 +35,7 @@ Technical skills used: <strong>Pandas, Matplotlib, NumPy</strong>
 
 ![](https://github.com/vmngo/Images/blob/main/Picture2.png)
 
-Technical skills used: <strong>Pandas, Matplotlib, NumPy</strong>
+Technical skills used: <strong>Pandas, Seaborn, Matplotlib</strong>
 --------------
 # Project 3: Which Phone Plan is Better
 * Analyzed clients’ behavior to determine which prepaid phone plane brings in more revenue
@@ -45,7 +45,7 @@ Technical skills used: <strong>Pandas, Matplotlib, NumPy</strong>
 
 ![](https://github.com/vmngo/Images/blob/main/Picture3.png)
 
-Technical skills used: <strong>Pandas, Matplotlib, NumPy</strong>
+Technical skills used: <strong>Pandas, SciPy, Matplotlib, Seaborn</strong>
 --------------
 # Project 4: What Makes a Video Game Succeed?
 * Identified patterns to determine whether a game succeeds or not.
@@ -57,6 +57,28 @@ Technical skills used: <strong>Pandas, Matplotlib, NumPy</strong>
 
 ![](https://github.com/vmngo/Images/blob/main/Picture4.png)
 
-Technical skills used: <strong>Pandas, Matplotlib, NumPy</strong>
+Technical skills used: <strong>Pandas, Seaborn, Matplotlib, SciPy, Plotly </strong>
 --------------
+# Project 5: What Impacts Passenger Preferences for Rideshare Services?
+* Found patterns that identified passenger preferences and the impact of external factors on rides.
+* Parsed weather data from an online source.
+* Used SQL to analyze number how weather conditions impacted ride preference for each taxi company.
+* Identified the top ten taxi companies and neighborhoods in terms of drop-offs 
+* Tested hypotheses using a t-test and a significance level of 0.05
+
+![](https://github.com/vmngo/Images/blob/main/Picture5.png)
+
+Technical skills used: <strong>Pandas, Seaborn, Matplotlib, Plotly, SciPy, PostgreSQL, BeautifulSoup</strong>
+--------------
+# Project 5: Project 6: Machine Learning for Phone Plans
+* Developed a model that analyzes subscribers’ behavior and recommended one of Megaline’s newer phone plans.
+* 	Created a model with the highest possible accuracy using a threshold accuracy of 0.75.
+* 	Tuned hyperparameters to identify values that would give the highest accuracy rate.
+*  erformed a sanity check for the model 
+
+![](https://github.com/vmngo/Images/blob/main/Picture15.png)
+
+Technical skills used: <strong>Pandas, NumPy, Scikit-learn (classification models)</strong>
+--------------
+
 
