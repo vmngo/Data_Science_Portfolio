@@ -80,5 +80,76 @@ Technical skills used: <strong>Pandas, Seaborn, Matplotlib, Plotly, SciPy, Postg
 
 Technical skills used: <strong>Pandas, NumPy, Scikit-learn (classification models)</strong>
 --------------
+# Project 7: Predicting a Bank’s Customer’s Behavior 
+* Avoided the dummy feature trap by encoding categorical features using One-Hot Encoding.
+* Standardized numerical features.
+* Used three different techniques to fix class imbalance: upsampling, downsampling, and adjusting class weight.
+* Used machine learning to predict whether a customer will leave the bank.
+* Built a model with the maximum possible F1 score using a threshold score of at least 0.59 
+
+![](https://github.com/vmngo/Images/blob/main/Picture6.png)
+
+Technical skills used: <strong>Pandas, NumPy, Scikit-learn (classification models)</strong>
+--------------
+# Project 8: Predicting the Best Place for a New Oil Well
+* Calculated the volume of reserves sufficient for developing a new well without losses.
+* Wrote a function to calculate profit from a set of selected oil wells and model predictions.
+* Used bootstrapping techniques with 1000 samples to find the distribution of profit.
+* Calculated average profit using a 95% confidence interval and risk of losses.
+* Used machine learning to suggest a region for a new oil well development.
+
+![](https://github.com/vmngo/Images/blob/main/Picture7.png)
+
+Technical skills used: <strong>Pandas, NumPy, Scikit-learn, Bootstrapping, LinearRegression </strong>
+--------------
+# Project 9: Optimization of Gold Recovery Process
+* Simulated the process of recovering gold and calculated the MAE score.
+* Considered the total concentrations of all substances at different stages of the gold recovery process to identify outliers.
+* Wrote a function to calculate the final sMAPE value.
+* Used pipelines to train different model and evaluated them using cross-validation.
+* Improved models by tuning hyperparameters using GridSearchCV.
+
+![](https://github.com/vmngo/Images/blob/main/Picture8.png)
+
+Technical skills used: <strong>Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn (Regression models), GridSearchCV, Pipelines </strong>
+--------------
+# Project 10: Insurance Benefit Prediction
+* Helped marketing department find customers who were similar to a given customer.
+* Predicted whether a new customer was likely to receive an insurance benefit.
+* Predicted the number of insurance benefits a new customers is likely to receive using a linear regression model.
+* Built a KNN-based classifier and measured it quality with the F1 metric for both the original data and scaled data.
+* Protected clients’ personal data without breaking the model.
+* Tested linear regression with data obfuscation.
+
+![](https://github.com/vmngo/Images/blob/main/Picture10.png)
+
+Technical skills used: <strong>Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, k-Nearest Neighbors, Linear algebra</strong>
+--------------
+# Project 11: Predicting the Market Value of a Car
+* Trained different models using various hyperparameters.
+* Analyzed the speed and quality of the models.
+* Used the RMSE metric to evaluate the models.
+* Built a pipeline to perform a sanity check for the gradient boosting models using linear regression 
+
+
+![](https://github.com/vmngo/Images/blob/main/Picture11.png)
+
+Technical skills used: <strong>Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, LightGBM, XGBoost, CatBoost, Pipelines</strong>
+--------------
+# Project 12: Predicting Taxi Orders (Time Series Analysis)
+* Resampled the data to predict the amount of taxi orders for the next hour.
+* Decomposed time series into trend and seasonal components.
+* Added lag values, rolling average values, and four new calendar features before training.
+* Trained different model and tuned various hyperparameters using GridSearchCV.
+* Analyzed the speed and quality of the models by comparing the RMSE score
+
+
+
+![](https://github.com/vmngo/Images/blob/main/Picture11.png)
+
+Technical skills used: <strong>Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, LightGBM, XGBoost, CatBoost, Pipelines</strong>
+--------------
+
+
 
 
