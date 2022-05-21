@@ -12,14 +12,32 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/> 
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="60"/> </a> </p>
 
-# [Project 1: Data Science Salary Estimator](https://github.com/PlayingNumbers/ds_salary_proj) 
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
 
-![](https://playingnumbers.github.io/Ken_Portfolio/images/positions_by_state.png)
+
+# Project 1: Analyzing Borrower’s Risk of Defaulting
+* Preprocessed data to identify and fill in missing values
+* Deleted duplicated data
+* Categorized data to test hypothesesEngineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
+* Built a report for the bank’s loan division to identify whether certain factors would impact a customer’s credit worthiness 
+
+
+![](https://github.com/vmngo/Images/blob/main/Picture1.png)
+
+Technical skills used: <strong>Pandas, Matplotlib, NumPy</strong>
+--------------
+
+# Project 2: What Sells a Car?
+* The following parameters were studied: price, vehicle’s age when the ad was placed, mileage, number of cylinders and conditions.
+* Determined outliers for each parameter and removed them.
+* Analyzed numbers of ads and average price for each type of vehicle  
+* •	Determined which factors impacted price the most by testing different hypotheses.
+
+
+![](https://github.com/vmngo/Images/blob/main/Picture2.png)
+
+Technical skills used: <strong>Pandas, Matplotlib, NumPy</strong>
+--------------
+
 
 
 # [Project 2: Ball Image Classifier](https://github.com/PlayingNumbers/ball_image_classifier) 
