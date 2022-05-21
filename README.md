@@ -21,7 +21,7 @@
 * Built a report for the bank’s loan division to identify whether certain factors would impact a customer’s credit worthiness 
 
 
-![](https://github.com/vmngo/images/blob/main/project1.png)
+<img src="https://github.com/vmngo/images/blob/main/project1.png" width="500" height="500"/>
 
 Technical skills used: <strong>Pandas, Matplotlib, NumPy</strong>
 --------------
