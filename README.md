@@ -30,19 +30,33 @@ Technical skills used: <strong>Pandas, Matplotlib, NumPy</strong>
 * The following parameters were studied: price, vehicle’s age when the ad was placed, mileage, number of cylinders and conditions.
 * Determined outliers for each parameter and removed them.
 * Analyzed numbers of ads and average price for each type of vehicle  
-* •	Determined which factors impacted price the most by testing different hypotheses.
+* Determined which factors impacted price the most by testing different hypotheses.
 
 
 ![](https://github.com/vmngo/Images/blob/main/Picture2.png)
 
 Technical skills used: <strong>Pandas, Matplotlib, NumPy</strong>
 --------------
+# Project 3: Which Phone Plan is Better
+* Analyzed clients’ behavior to determine which prepaid phone plane brings in more revenue
+* Calculated the mean, variance, and standard deviation for number of minutes and data used, and texts sent per month 
+* Explored and analyzed data using different graphs to describe customers’ behavior
+* Tested hypotheses using with a t-test and significance level of 0.05
 
+![](https://github.com/vmngo/Images/blob/main/Picture3.png)
 
+Technical skills used: <strong>Pandas, Matplotlib, NumPy</strong>
+--------------
+# Project 4: What Makes a Video Game Succeed?
+* Identified patterns to determine whether a game succeeds or not.
+* Spotted big winners to help company plan advertising campaigns.
+* Calculated the total sales in each region for each games.
+* Analyzed how sales varied from platform to platform and determined which period was significant to the analysis.
+* Created a user profile for each region to describe the variations in market shares.
+* Tested hypotheses using a t-test.
 
-# [Project 2: Ball Image Classifier](https://github.com/PlayingNumbers/ball_image_classifier) 
-For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities. 
+![](https://github.com/vmngo/Images/blob/main/Picture4.png)
 
-I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
+Technical skills used: <strong>Pandas, Matplotlib, NumPy</strong>
+--------------
 
-![](https://playingnumbers.github.io/Ken_Portfolio/images/matrix_results.png)
