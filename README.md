@@ -147,7 +147,34 @@ Technical skills used: <strong>Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn,
 
 ![](https://github.com/vmngo/images/blob/main/project12.png)
 
-Technical skills used: <strong>Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, LightGBM, XGBoost, CatBoost, Pipelines</strong>
+Technical skills used: <strong>: Pandas, NumPy, Seaborn, Matplotlib, Plotly, Statsmodels, Scikit-learn, CatBoost, LightGBM, XGBoost</strong>
+--------------
+# Project 13: Sentiment Analysis of IMDB Movie Reviews 
+* Conducted exploratory data analysis to make conclusions about class imbalance.
+* Created word clouds to visualize words that carry meaning .
+* Created a baseline model.
+* Used NLTK and SpaCy to preprocess texts before model training.
+* Trained a model to automatically detect negative reviews.
+
+
+
+![](https://github.com/vmngo/images/blob/main/project13.png)
+
+Technical skills used: <strong>Pandas, NumPy, Matplotlib, Seaborn, PyTorch, NLTK, SpaCy, WordCloud, Scikit-learn, LightGBM, BERT</strong>
+--------------
+# Project 14: Predicting a Customer’s Age from their Photo
+* Used computer vision methods to determine the age of a person from a photo 
+* Explored the age distribution and printed photos for different ages to get an overall impression of the dataset.
+* Performed augmentations on the training set and created a model using the ResNet50 architecture from TensorFlow.
+* Trained the model and ran the script on a GPU platform.
+* Used MAE as the evaluation metric
+
+
+
+
+![](https://github.com/vmngo/images/blob/main/project14.png)
+
+Technical skills used: <strong>Pandas, NumPy, Seaborn, Matplotlib, TensorFlow</strong>
 --------------
 
 
