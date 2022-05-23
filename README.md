@@ -14,7 +14,7 @@
 
 
 
-# Project 1: Analyzing Borrower’s Risk of Defaulting
+# [Project 1: Analyzing Borrower’s Risk of Defaulting](https://drive.google.com/file/d/1XSyy5jiiv96i1Qav9glxxcDBW-zzMXb7/view?usp=sharing)
 * Preprocessed data to identify and fill in missing values
 * Deleted duplicated data
 * Categorized data to test hypothesesEngineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
