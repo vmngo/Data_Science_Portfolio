@@ -26,7 +26,7 @@
 Technical skills used: <strong>Pandas, Matplotlib, NumPy</strong>
 --------------
 
-# Project 2: What Sells a Car?
+# [Project 2: What Sells a Car?](https://drive.google.com/file/d/19frUE1ORYy2X5WKwRatNyFcgcVBEHPVP/view?usp=sharing)
 * The following parameters were studied: price, vehicle’s age when the ad was placed, mileage, number of cylinders and conditions.
 * Determined outliers for each parameter and removed them.
 * Analyzed numbers of ads and average price for each type of vehicle  
@@ -37,16 +37,17 @@ Technical skills used: <strong>Pandas, Matplotlib, NumPy</strong>
 
 Technical skills used: <strong>Pandas, Seaborn, Matplotlib</strong>
 --------------
-# Project 3: Which Phone Plan is Better
+# [Project 3: Which Phone Plan is Better](https://drive.google.com/file/d/1VKFYroUZfhvhvUyxTJX6_HOP0TqC3U75/view?usp=sharing)
 * Analyzed clients’ behavior to determine which prepaid phone plane brings in more revenue
 * Calculated the mean, variance, and standard deviation for number of minutes and data used, and texts sent per month 
 * Explored and analyzed data using different graphs to describe customers’ behavior
 * Tested hypotheses using with a t-test and significance level of 0.05
 
 <img src="https://github.com/vmngo/images/blob/main/project3.png" width="500" height="500"/>
+
 Technical skills used: <strong>Pandas, SciPy, Matplotlib, Seaborn</strong>
 --------------
-# Project 4: What Makes a Video Game Succeed?
+# [Project 4: What Makes a Video Game Succeed?](https://drive.google.com/file/d/1Y3Xnhq3NVl77zgbp7Sn8xdHtXh1fFOof/view?usp=sharing)
 * Identified patterns to determine whether a game succeeds or not.
 * Spotted big winners to help company plan advertising campaigns.
 * Calculated the total sales in each region for each games.
@@ -58,7 +59,7 @@ Technical skills used: <strong>Pandas, SciPy, Matplotlib, Seaborn</strong>
 
 Technical skills used: <strong>Pandas, Seaborn, Matplotlib, SciPy, Plotly </strong>
 --------------
-# Project 5: What Impacts Passenger Preferences for Rideshare Services?
+# [Project 5: What Impacts Passenger Preferences for Rideshare Services?](https://drive.google.com/file/d/1X_F90423iUukm3bePeOCy6z0NYNxCEoc/view?usp=sharing)
 * Found patterns that identified passenger preferences and the impact of external factors on rides.
 * Parsed weather data from an online source.
 * Used SQL to analyze number how weather conditions impacted ride preference for each taxi company.
@@ -69,7 +70,7 @@ Technical skills used: <strong>Pandas, Seaborn, Matplotlib, SciPy, Plotly </stro
 
 Technical skills used: <strong>Pandas, Seaborn, Matplotlib, Plotly, SciPy, PostgreSQL, BeautifulSoup</strong>
 --------------
-# Project 6: Machine Learning for Phone Plans
+# [Project 6: Machine Learning for Phone Plans](https://drive.google.com/file/d/1tctGBHvr3w89rHA2CFKwxGdIVrFUZa0D/view?usp=sharing)
 * Developed a model that analyzes subscribers’ behavior and recommended one of Megaline’s newer phone plans.
 * 	Created a model with the highest possible accuracy using a threshold accuracy of 0.75.
 * 	Tuned hyperparameters to identify values that would give the highest accuracy rate.
@@ -79,7 +80,7 @@ Technical skills used: <strong>Pandas, Seaborn, Matplotlib, Plotly, SciPy, Postg
 
 Technical skills used: <strong>Pandas, NumPy, Scikit-learn (classification models)</strong>
 --------------
-# Project 7: Predicting a Bank’s Customer’s Behavior 
+# [Project 7: Predicting a Bank’s Customer’s Behavior](https://drive.google.com/file/d/1em_1sG2mGG1IrCS0z2ynLEpliCEnb4uR/view?usp=sharing) 
 * Avoided the dummy feature trap by encoding categorical features using One-Hot Encoding.
 * Standardized numerical features.
 * Used three different techniques to fix class imbalance: upsampling, downsampling, and adjusting class weight.
@@ -90,7 +91,7 @@ Technical skills used: <strong>Pandas, NumPy, Scikit-learn (classification model
 
 Technical skills used: <strong>Pandas, NumPy, Scikit-learn (classification models)</strong>
 --------------
-# Project 8: Predicting the Best Place for a New Oil Well
+# [Project 8: Predicting the Best Place for a New Oil Well](https://drive.google.com/file/d/1DoiEjh6c8Bn6Z8sVNsMqa4caGN3j1qF2/view?usp=sharing)
 * Calculated the volume of reserves sufficient for developing a new well without losses.
 * Wrote a function to calculate profit from a set of selected oil wells and model predictions.
 * Used bootstrapping techniques with 1000 samples to find the distribution of profit.
@@ -101,7 +102,7 @@ Technical skills used: <strong>Pandas, NumPy, Scikit-learn (classification model
 
 Technical skills used: <strong>Pandas, NumPy, Scikit-learn, Bootstrapping, LinearRegression </strong>
 --------------
-# Project 9: Optimization of Gold Recovery Process
+# [Project 9: Optimization of Gold Recovery Process](https://drive.google.com/file/d/1FD7kRV603X8aYUnl5JYWlJxjDAK3X3lY/view?usp=sharing)
 * Simulated the process of recovering gold and calculated the MAE score.
 * Considered the total concentrations of all substances at different stages of the gold recovery process to identify outliers.
 * Wrote a function to calculate the final sMAPE value.
@@ -111,7 +112,7 @@ Technical skills used: <strong>Pandas, NumPy, Scikit-learn, Bootstrapping, Linea
 <img src= "https://github.com/vmngo/images/blob/main/project9.png" width="500" height="500"/>
 Technical skills used: <strong>Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn (Regression models), GridSearchCV, Pipelines </strong>
                                                                                          
-# Project 10: Insurance Benefit Prediction
+# [Project 10: Insurance Benefit Prediction](https://drive.google.com/file/d/1UfgVxBaJNozSIj6dMLStRBF8FlIRgUHK/view?usp=sharing)
 * Helped marketing department find customers who were similar to a given customer.
 * Predicted whether a new customer was likely to receive an insurance benefit.
 * Predicted the number of insurance benefits a new customers is likely to receive using a linear regression model.
@@ -123,7 +124,7 @@ Technical skills used: <strong>Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn 
 
 Technical skills used: <strong>Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, k-Nearest Neighbors, Linear algebra</strong>
 --------------
-# Project 11: Predicting the Market Value of a Car
+# [Project 11: Predicting the Market Value of a Car](https://drive.google.com/file/d/1QY1UKOn2tjf1GLExHq48StP2smBBTNVh/view?usp=sharing)
 * Trained different models using various hyperparameters.
 * Analyzed the speed and quality of the models.
 * Used the RMSE metric to evaluate the models.
@@ -133,7 +134,7 @@ Technical skills used: <strong>Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn,
 
 Technical skills used: <strong>Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, LightGBM, XGBoost, CatBoost, Pipelines</strong>
 --------------
-# Project 12: Predicting Taxi Orders (Time Series Analysis)
+# [Project 12: Predicting Taxi Orders (Time Series Analysis)](https://drive.google.com/file/d/1CBqmuKJAFk0wEjNUHOeplLWFdPlaFCFQ/view?usp=sharing)
 * Resampled the data to predict the amount of taxi orders for the next hour.
 * Decomposed time series into trend and seasonal components.
 * Added lag values, rolling average values, and four new calendar features before training.
@@ -145,7 +146,7 @@ Technical skills used: <strong>Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn,
 
 Technical skills used: <strong>: Pandas, NumPy, Seaborn, Matplotlib, Plotly, Statsmodels, Scikit-learn, CatBoost, LightGBM, XGBoost</strong>
 --------------
-# Project 13: Sentiment Analysis of IMDB Movie Reviews 
+# [Project 13: Sentiment Analysis of IMDB Movie Reviews](https://drive.google.com/file/d/1Qp5Fn5jeY8TXMPBnEJ4uA_fC5ZRKSsnF/view?usp=sharing) 
 * Conducted exploratory data analysis to make conclusions about class imbalance.
 * Created word clouds to visualize words that carry meaning .
 * Created a baseline model.
@@ -156,7 +157,7 @@ Technical skills used: <strong>: Pandas, NumPy, Seaborn, Matplotlib, Plotly, Sta
 
 Technical skills used: <strong>Pandas, NumPy, Matplotlib, Seaborn, PyTorch, NLTK, SpaCy, WordCloud, Scikit-learn, LightGBM, BERT</strong>
 --------------
-# Project 14: Predicting a Customer’s Age from their Photo
+# [Project 14: Predicting a Customer’s Age from their Photo](https://drive.google.com/file/d/1bqTkOMswxLzljM5Nwie09IbK9eXSSUSl/view?usp=sharing)
 * Used computer vision methods to determine the age of a person from a photo 
 * Explored the age distribution and printed photos for different ages to get an overall impression of the dataset.
 * Performed augmentations on the training set and created a model using the ResNet50 architecture from TensorFlow.
