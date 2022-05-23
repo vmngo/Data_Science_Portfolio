@@ -33,7 +33,7 @@ Technical skills used: <strong>Pandas, Matplotlib, NumPy</strong>
 * Determined which factors impacted price the most by testing different hypotheses.
 
 
-<img src="https://github.com/vmngo/images/blob/main/project2.png" width="500" height="500"/>
+<img src="https://github.com/vmngo/images/blob/main/project2.png" width="250" height="250"/>
 
 Technical skills used: <strong>Pandas, Seaborn, Matplotlib</strong>
 --------------
@@ -43,7 +43,7 @@ Technical skills used: <strong>Pandas, Seaborn, Matplotlib</strong>
 * Explored and analyzed data using different graphs to describe customers’ behavior
 * Tested hypotheses using with a t-test and significance level of 0.05
 
-<img src="https://github.com/vmngo/images/blob/main/project3.png" width="500" height="500"/>
+<img src="https://github.com/vmngo/images/blob/main/project3.png" width="250" height="250"/>
 
 Technical skills used: <strong>Pandas, SciPy, Matplotlib, Seaborn</strong>
 --------------
@@ -55,7 +55,7 @@ Technical skills used: <strong>Pandas, SciPy, Matplotlib, Seaborn</strong>
 * Created a user profile for each region to describe the variations in market shares.
 * Tested hypotheses using a t-test.
 
-<img src="https://github.com/vmngo/images/blob/main/project4.png" width="500" height="500"/>
+<img src="https://github.com/vmngo/images/blob/main/project4.png" width="250" height="250"/>
 
 Technical skills used: <strong>Pandas, Seaborn, Matplotlib, SciPy, Plotly </strong>
 --------------
@@ -66,7 +66,7 @@ Technical skills used: <strong>Pandas, Seaborn, Matplotlib, SciPy, Plotly </stro
 * Identified the top ten taxi companies and neighborhoods in terms of drop-offs 
 * Tested hypotheses using a t-test and a significance level of 0.05
 
-<img src="https://github.com/vmngo/images/blob/main/project5.png" width="500" height="500"/>
+<img src="https://github.com/vmngo/images/blob/main/project5.png" width="250" height="250"/>
 
 Technical skills used: <strong>Pandas, Seaborn, Matplotlib, Plotly, SciPy, PostgreSQL, BeautifulSoup</strong>
 --------------
@@ -76,7 +76,7 @@ Technical skills used: <strong>Pandas, Seaborn, Matplotlib, Plotly, SciPy, Postg
 * 	Tuned hyperparameters to identify values that would give the highest accuracy rate.
 *  erformed a sanity check for the model 
 
-<img src="https://github.com/vmngo/images/blob/main/project6.png" width="500" height="500"/>
+<img src="https://github.com/vmngo/images/blob/main/project6.png" width="250" height="250"/>
 
 Technical skills used: <strong>Pandas, NumPy, Scikit-learn (classification models)</strong>
 --------------
@@ -87,7 +87,7 @@ Technical skills used: <strong>Pandas, NumPy, Scikit-learn (classification model
 * Used machine learning to predict whether a customer will leave the bank.
 * Built a model with the maximum possible F1 score using a threshold score of at least 0.59 
 
-<img src="https://github.com/vmngo/images/blob/main/project7.png" width="500" height="500"/>
+<img src="https://github.com/vmngo/images/blob/main/project7.png" width="250" height="250"/>
 
 Technical skills used: <strong>Pandas, NumPy, Scikit-learn (classification models)</strong>
 --------------
@@ -98,7 +98,7 @@ Technical skills used: <strong>Pandas, NumPy, Scikit-learn (classification model
 * Calculated average profit using a 95% confidence interval and risk of losses.
 * Used machine learning to suggest a region for a new oil well development.
 
-<img src="https://github.com/vmngo/images/blob/main/project8.png" width="500" height="500"/>
+<img src="https://github.com/vmngo/images/blob/main/project8.png" width="250" height="250"/>
 
 Technical skills used: <strong>Pandas, NumPy, Scikit-learn, Bootstrapping, LinearRegression </strong>
 --------------
@@ -109,7 +109,7 @@ Technical skills used: <strong>Pandas, NumPy, Scikit-learn, Bootstrapping, Linea
 * Used pipelines to train different model and evaluated them using cross-validation.
 * Improved models by tuning hyperparameters using GridSearchCV.
 
-<img src= "https://github.com/vmngo/images/blob/main/project9.png" width="500" height="500"/>
+<img src= "https://github.com/vmngo/images/blob/main/project9.png" width="250" height="250"/>
 Technical skills used: <strong>Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn (Regression models), GridSearchCV, Pipelines </strong>
                                                                                          
 # [Project 10: Insurance Benefit Prediction](https://github.com/vmngo/my-projects/blob/main/Project%2010.ipynb)
@@ -120,7 +120,7 @@ Technical skills used: <strong>Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn 
 * Protected clients’ personal data without breaking the model.
 * Tested linear regression with data obfuscation.
 
-<img src="https://github.com/vmngo/images/blob/main/project10.png" width="500" height="500"/>
+<img src="https://github.com/vmngo/images/blob/main/project10.png" width="250" height="250"/>
 
 Technical skills used: <strong>Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, k-Nearest Neighbors, Linear algebra</strong>
 --------------
@@ -130,7 +130,7 @@ Technical skills used: <strong>Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn,
 * Used the RMSE metric to evaluate the models.
 * Built a pipeline to perform a sanity check for the gradient boosting models using linear regression 
 
-<img src="https://github.com/vmngo/images/blob/main/project11.png" width="500" height="500"/>
+<img src="https://github.com/vmngo/images/blob/main/project11.png" width="250" height="250"/>
 
 Technical skills used: <strong>Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, LightGBM, XGBoost, CatBoost, Pipelines</strong>
 --------------
@@ -142,7 +142,7 @@ Technical skills used: <strong>Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn,
 * Analyzed the speed and quality of the models by comparing the RMSE score
 
 
-<img src="https://github.com/vmngo/images/blob/main/project12.png" width="500" height="500"/>
+<img src="https://github.com/vmngo/images/blob/main/project12.png" width="250" height="250"/>
 
 Technical skills used: <strong>: Pandas, NumPy, Seaborn, Matplotlib, Plotly, Statsmodels, Scikit-learn, CatBoost, LightGBM, XGBoost</strong>
 --------------
@@ -153,7 +153,7 @@ Technical skills used: <strong>: Pandas, NumPy, Seaborn, Matplotlib, Plotly, Sta
 * Used NLTK and SpaCy to preprocess texts before model training.
 * Trained a model to automatically detect negative reviews.
 
-<img src="https://github.com/vmngo/images/blob/main/project13.png" width="500" height="500"/>
+<img src="https://github.com/vmngo/images/blob/main/project13.png" width="250" height="250"/>
 
 Technical skills used: <strong>Pandas, NumPy, Matplotlib, Seaborn, PyTorch, NLTK, SpaCy, WordCloud, Scikit-learn, LightGBM, BERT</strong>
 --------------
@@ -164,7 +164,7 @@ Technical skills used: <strong>Pandas, NumPy, Matplotlib, Seaborn, PyTorch, NLTK
 * Trained the model and ran the script on a GPU platform.
 * Used MAE as the evaluation metric
 
-<img src="https://github.com/vmngo/images/blob/main/project14.png" width="500" height="500"/>
+<img src="https://github.com/vmngo/images/blob/main/project14.png" width="250" height="250"/>
 
 Technical skills used: <strong>Pandas, NumPy, Seaborn, Matplotlib, TensorFlow</strong>
 --------------
