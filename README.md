@@ -3,7 +3,6 @@
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hailedaniel/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Dhaile?color=1DA1F2&logo=twitter&style=for-the-badge)](#)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/daniel_sys)
-[![Gmail](https://icon-icons.com/icon/gmail-button/151848)](https://www.reddit.com/user/daniel_sys)
 
 #### Programming Language Stack
 <p align="left"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Python-Dark.svg" alt="python" title="python" width="60" height="60"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/MySQL-Dark.svg" alt="SQL" title="SQL" width="60" height="60"/>
