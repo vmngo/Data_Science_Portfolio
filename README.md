@@ -26,7 +26,7 @@
 Technical skills used: <strong>Pandas, Matplotlib, NumPy</strong>
 --------------
 
-# [Project 2: What Sells a Car?](https://drive.google.com/file/d/19frUE1ORYy2X5WKwRatNyFcgcVBEHPVP/view?usp=sharing)
+# [Project 2: What Sells a Car?](https://github.com/vmngo/my-projects/blob/main/Project%202.ipynb)
 * The following parameters were studied: price, vehicle’s age when the ad was placed, mileage, number of cylinders and conditions.
 * Determined outliers for each parameter and removed them.
 * Analyzed numbers of ads and average price for each type of vehicle  
@@ -37,7 +37,7 @@ Technical skills used: <strong>Pandas, Matplotlib, NumPy</strong>
 
 Technical skills used: <strong>Pandas, Seaborn, Matplotlib</strong>
 --------------
-# [Project 3: Which Phone Plan is Better](https://drive.google.com/file/d/1VKFYroUZfhvhvUyxTJX6_HOP0TqC3U75/view?usp=sharing)
+# [Project 3: Which Phone Plan is Better](https://github.com/vmngo/my-projects/blob/main/Project%203.ipynb)
 * Analyzed clients’ behavior to determine which prepaid phone plane brings in more revenue
 * Calculated the mean, variance, and standard deviation for number of minutes and data used, and texts sent per month 
 * Explored and analyzed data using different graphs to describe customers’ behavior
@@ -47,7 +47,7 @@ Technical skills used: <strong>Pandas, Seaborn, Matplotlib</strong>
 
 Technical skills used: <strong>Pandas, SciPy, Matplotlib, Seaborn</strong>
 --------------
-# [Project 4: What Makes a Video Game Succeed?](https://drive.google.com/file/d/1Y3Xnhq3NVl77zgbp7Sn8xdHtXh1fFOof/view?usp=sharing)
+# [Project 4: What Makes a Video Game Succeed?](https://github.com/vmngo/my-projects/blob/main/Project%204.ipynb)
 * Identified patterns to determine whether a game succeeds or not.
 * Spotted big winners to help company plan advertising campaigns.
 * Calculated the total sales in each region for each games.
@@ -59,7 +59,7 @@ Technical skills used: <strong>Pandas, SciPy, Matplotlib, Seaborn</strong>
 
 Technical skills used: <strong>Pandas, Seaborn, Matplotlib, SciPy, Plotly </strong>
 --------------
-# [Project 5: What Impacts Passenger Preferences for Rideshare Services?](https://drive.google.com/file/d/1X_F90423iUukm3bePeOCy6z0NYNxCEoc/view?usp=sharing)
+# [Project 5: What Impacts Passenger Preferences for Rideshare Services?](https://github.com/vmngo/my-projects/blob/main/Project%205.ipynb)
 * Found patterns that identified passenger preferences and the impact of external factors on rides.
 * Parsed weather data from an online source.
 * Used SQL to analyze number how weather conditions impacted ride preference for each taxi company.
