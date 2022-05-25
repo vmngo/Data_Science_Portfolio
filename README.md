@@ -24,7 +24,7 @@
 
 <img src="https://github.com/vmngo/images/blob/main/project1.png" width="250" height="250"/>
 
-**Technical skills used**: <strong>Pandas, Matplotlib, NumPy</strong>
+Technical skills used: <strong>Pandas, Matplotlib, NumPy</strong>
 --------------
 
 # [Project 2: What Sells a Car?](https://github.com/vmngo/my-projects/blob/main/Project%202.ipynb)
@@ -36,7 +36,7 @@
 
 <img src="https://github.com/vmngo/images/blob/main/project2.png" width="250" height="250"/>
 
-**Technical skills used**: <strong>Pandas, Seaborn, Matplotlib</strong>
+Technical skills used: <strong>Pandas, Seaborn, Matplotlib</strong>
 --------------
 # [Project 3: Which Phone Plan is Better](https://github.com/vmngo/my-projects/blob/main/Project%203.ipynb)
 * Analyzed clients’ behavior to determine which prepaid phone plane brings in more revenue
@@ -46,7 +46,7 @@
 
 <img src="https://github.com/vmngo/images/blob/main/project3.png" width="250" height="250"/>
 
-**Technical skills used**: <strong>Pandas, SciPy, Matplotlib, Seaborn</strong>
+Technical skills used: <strong>Pandas, SciPy, Matplotlib, Seaborn</strong>
 --------------
 # [Project 4: What Makes a Video Game Succeed?](https://github.com/vmngo/my-projects/blob/main/Project%204.ipynb)
 * Identified patterns to determine whether a game succeeds or not.
@@ -69,7 +69,7 @@
 
 <img src="https://github.com/vmngo/images/blob/main/project5.png" width="250" height="250"/>
 
-**Technical skills used**: <strong>Pandas, Seaborn, Matplotlib, Plotly, SciPy, PostgreSQL, BeautifulSoup</strong>
+Technical skills used: <strong>Pandas, Seaborn, Matplotlib, Plotly, SciPy, PostgreSQL, BeautifulSoup</strong>
 --------------
 # [Project 6: Machine Learning for Phone Plans](https://github.com/vmngo/my-projects/blob/main/Project%206.ipynb)
 * Developed a model that analyzes subscribers’ behavior and recommended one of Megaline’s newer phone plans.
@@ -90,7 +90,7 @@ Technical skills used: <strong>Pandas, NumPy, Scikit-learn (classification model
 
 <img src="https://github.com/vmngo/images/blob/main/project7.png" width="250" height="250"/>
 
-**Technical skills used**: <strong>Pandas, NumPy, Scikit-learn (classification models)</strong>
+Technical skills used: <strong>Pandas, NumPy, Scikit-learn (classification models)</strong>
 --------------
 # [Project 8: Predicting the Best Place for a New Oil Well](https://github.com/vmngo/my-projects/blob/main/Project%208.ipynb)
 * Calculated the volume of reserves sufficient for developing a new well without losses.
@@ -101,7 +101,7 @@ Technical skills used: <strong>Pandas, NumPy, Scikit-learn (classification model
 
 <img src="https://github.com/vmngo/images/blob/main/project8.png" width="250" height="250"/>
 
-**Technical skills used**: <strong>Pandas, NumPy, Scikit-learn, Bootstrapping, LinearRegression </strong>
+Technical skills used: <strong>Pandas, NumPy, Scikit-learn, Bootstrapping, LinearRegression </strong>
 --------------
 # [Project 9: Optimization of Gold Recovery Process](https://github.com/vmngo/my-projects/blob/main/Project%209.ipynb)
 * Simulated the process of recovering gold and calculated the MAE score.
@@ -134,7 +134,7 @@ Technical skills used: <strong>Pandas, NumPy, Scikit-learn (classification model
 
 <img src="https://github.com/vmngo/images/blob/main/project11.png" width="250" height="250"/>
 
-**Technical skills used**: <strong>Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, LightGBM, XGBoost, CatBoost, Pipelines</strong>
+Technical skills used: <strong>Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, LightGBM, XGBoost, CatBoost, Pipelines</strong>
 --------------
 # [Project 12: Predicting Taxi Orders (Time Series Analysis)](https://github.com/vmngo/my-projects/blob/main/Project%2012.ipynb)
 * Resampled the data to predict the amount of taxi orders for the next hour.
@@ -146,7 +146,7 @@ Technical skills used: <strong>Pandas, NumPy, Scikit-learn (classification model
 
 <img src="https://github.com/vmngo/images/blob/main/project12.png" width="250" height="250"/>
 
-**Technical skills used**: <strong>: Pandas, NumPy, Seaborn, Matplotlib, Plotly, Statsmodels, Scikit-learn, CatBoost, LightGBM, XGBoost</strong>
+Technical skills used: <strong>: Pandas, NumPy, Seaborn, Matplotlib, Plotly, Statsmodels, Scikit-learn, CatBoost, LightGBM, XGBoost</strong>
 --------------
 # [Project 13: Sentiment Analysis of IMDB Movie Reviews](https://github.com/vmngo/my-projects/blob/main/Project%2013.ipynb) 
 * Conducted exploratory data analysis to make conclusions about class imbalance.
@@ -157,7 +157,7 @@ Technical skills used: <strong>Pandas, NumPy, Scikit-learn (classification model
 
 <img src="https://github.com/vmngo/images/blob/main/project13.png" width="250" height="250"/>
 
-**Technical skills used**: <strong>Pandas, NumPy, Matplotlib, Seaborn, PyTorch, NLTK, SpaCy, WordCloud, Scikit-learn, LightGBM, BERT</strong>
+Technical skills used: <strong>Pandas, NumPy, Matplotlib, Seaborn, PyTorch, NLTK, SpaCy, WordCloud, Scikit-learn, LightGBM, BERT</strong>
 --------------
 # [Project 14: Predicting a Customer’s Age from their Photo](https://github.com/vmngo/my-projects/blob/main/Project%2014.ipynb)
 * Used computer vision methods to determine the age of a person from a photo 
@@ -168,7 +168,7 @@ Technical skills used: <strong>Pandas, NumPy, Scikit-learn (classification model
 
 <img src="https://github.com/vmngo/images/blob/main/project14.png" width="250" height="250"/>
 
-**Technical skills used**: <strong>Pandas, NumPy, Seaborn, Matplotlib, TensorFlow</strong>
+Technical skills used: <strong>Pandas, NumPy, Seaborn, Matplotlib, TensorFlow</strong>
 --------------
 
 
