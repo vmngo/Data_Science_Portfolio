@@ -170,6 +170,7 @@ Technical skills used: <strong>Pandas, NumPy, Matplotlib, Seaborn, PyTorch, NLTK
 
 Technical skills used: <strong>Pandas, NumPy, Seaborn, Matplotlib, TensorFlow</strong>
 --------------
+# [Project 15: Predicting Customer Churn](https://github.com/vmngo/my-projects/blob/main/Final%20Project.ipynb)
 
 
 ---
