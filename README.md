@@ -6,7 +6,7 @@
 #### Programming Language Stack
 <p align="left"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Python-Dark.svg" alt="python" title="python" width="60" height="60"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/MySQL-Dark.svg" alt="SQL" title="SQL" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/TensorFlow-Dark.svg" alt="Tensorflow" title="Tensor Flow" width="60" height="60"/>
- <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/PyTorch-Dark.svg" alt="Py TOrch" title="Py torch" width="60" height="60"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/PyTorch-Dark.svg" alt="PyTorch" title="PyTorch" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="60" height="60"/>
