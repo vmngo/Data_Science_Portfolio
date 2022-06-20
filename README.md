@@ -1,6 +1,6 @@
 # Hi there 👋 , I'm Vy-Vy
 ### I'm an aspiring data scientist hoping to solve the world's problems by translating data into valuable and comprehensible insights
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hailedaniel/)
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vy-vy-ngo)
 
 
 #### Programming Language Stack
